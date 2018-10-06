@@ -1,4 +1,4 @@
-# @nikfranki/tiny
+# @franki/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@franki/tiny.svg)](https://www.npmjs.com/package/@franki/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@franki/tiny.svg)](https://www.npmjs.com/package/@franki/tiny)
