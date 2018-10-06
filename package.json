@@ -1,14 +1,14 @@
 {
-  "name": "@NikFranki/tiny",
-  "version": "2.1.0",
+  "name": "@franki/tiny",
+  "version": "2.1.1",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "NikFranki/tiny",
+  "repository": "nikfranki/tiny",
   "main": "index.js",
   "keywords": [
     "tiny",
     "npm",
     "package",
-    "NikFranki"
+    "franki"
   ]
 }
